@@ -4,8 +4,13 @@
   "extends": ["config:recommended",
               "npm:unpublishSafe",
               "schedule:earlyMondays",
-              ":automergeDisabled"],
+              ":automergeDisabled",
+              ":gitSignOff"],
   "automerge": false,
   "forkProcessing": "enabled",
-  "minimumReleaseAge": "3 days"
+  "minimumReleaseAge": "3 days",
+  "vulnerabilityAlerts": {
+    "enabled": true,
+    "labels": ["type:security"]
+  }
 }
