@@ -1,0 +1,10 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "Default Renovate configuration for celo-org. Docs at https://docs.renovatebot.com/.",
+  "extends": ["config:recommended",
+              "npm:unpublishSafe",
+              "schedule:earlyMondays",
+              ":automergeDisabled"],
+  "automerge": false,
+  "minimumReleaseAge": "3 days"
+}
