@@ -6,5 +6,6 @@
               "schedule:earlyMondays",
               ":automergeDisabled"],
   "automerge": false,
+  "forkProcessing": "enabled",
   "minimumReleaseAge": "3 days"
 }
