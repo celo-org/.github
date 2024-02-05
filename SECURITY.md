@@ -18,8 +18,8 @@ The Celo community asks that all suspected vulnerabilities be privately and resp
 
 ## Creating a Report
 
-1. Submit your vulnerability to [Celo on Intigriti](https://app.intigriti.com/programs/clabs/clabs/detail). This is currently a public program
-2. You can also email the [security@clabs.co](mailto:security@clabs.co) list with the details for reproducing the vulnerability as well as the usual details expected for all bug reports.
+1. Submit your vulnerability to [Celo on Remedy](https://r.xyz). This is currently a private program in beta. Message us for an invite.
+2. You can also email the [security.report@clabs.co](mailto:security.report@clabs.co) list with the details for reproducing the vulnerability as well as the usual details expected for all bug reports.
 
    You may encrypt your email using this GPG key, but encryption is NOT required:
    ```
@@ -38,6 +38,8 @@ However, the team may be able to assist in coordinating a response to a vulnerab
  - https://\*.celo.org                          
  - https://\*.clabs.co                          
  - https://github.com/celo-org/*               
+ - https://stcelo.xyz  
+ - https://\*.stcelo.xyz  
 
 # Out of Scope
 
