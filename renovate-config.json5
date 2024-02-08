@@ -11,6 +11,7 @@
   "automerge": false,
   "forkProcessing": "enabled",
   "minimumReleaseAge": "7 days",
+  "osvVulnerabilityAlerts": true,
   "vulnerabilityAlerts": {
     "enabled": true,
     "labels": ["type:security"]
