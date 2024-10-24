@@ -1,5 +1,3 @@
-<!-- Inherited from https://celoecosystem.com/community/community-code-of-conduct. -->
-
 # Celo Community Code of Conduct
 
 ### 1. Purpose
