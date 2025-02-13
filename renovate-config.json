@@ -9,6 +9,7 @@
               ":gitSignOff",
               ":rebaseStalePrs"],
   "automerge": false,
+  "configMigration": true,
   "dependencyDashboardOSVVulnerabilitySummary": "none",
   "forkProcessing": "enabled",
   "minimumReleaseAge": "7 days",
