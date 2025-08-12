@@ -18,11 +18,11 @@ Celo is an Ethereum L2, scaling real-world solutions & leading a thriving new di
 
 ## 🤝 Contributing
 
-We welcome contributions from everyone! Please see our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) for details.
+We welcome contributions from everyone! Please see our [Contributing Guidelines](https://github.com/celo-org/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/celo-org/.github/blob/main/CODE_OF_CONDUCT.md) for details.
 
 ## 🛡️ Security
 
-If you discover a security vulnerability, please follow our [Security Policy](SECURITY.md) for responsible disclosure.
+If you discover a security vulnerability, please follow our [Security Policy](https://github.com/celo-org/.github/blob/main/SECURITY.md) for responsible disclosure.
 
 ## 💬 Community
 
